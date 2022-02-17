@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Deque Test Suite" verbose="2" preserve-order="true">
+
+	
+	<test name="Deque Demo Test" preserve-order="true">
+		<classes>
+			<class name="com.deque.tests.DequeDemoTest" />
+		</classes>
+	</test>
+	<listeners>
+
+
+</listeners>
+</suite>
